@@ -1,9 +1,5 @@
-Template for the Read the Docs tutorial
+DiaDEM documentation
 =======================================
+This respository contains the public documentation of the DiaDEM platform, including user manual, scientific documentation (computational methods), documentation of the database, and terms of usage. 
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
-
-Read the tutorial here:
-
-https://docs.readthedocs.io/en/stable/tutorial/
+The documentation is hosted on read the docs: https://diadem.readthedocs.io/en/latest/
