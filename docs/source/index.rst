@@ -7,15 +7,14 @@ The (current) beta version of the DiaDEM platform is available at https://www.di
 
 A detailed description of the DiaDEM project is available at https://www.diadem-project.de
 
-This page is the official documentation for the DiaDEM platform including user guide and scientific documentation. It is structured as follows: 
+This page is the official documentation for the DiaDEM platform including user guide and scientific documentation. It is structured as follows:
 
 
 
-
-
-
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+..
+    Check out the :doc:`usage` section for further information, including
+..
+    how to :ref:`installation` the project.
 
 .. note::
 
@@ -24,7 +23,31 @@ how to :ref:`installation` the project.
 Contents
 --------
 
+
+.. toctree::
+   :maxdepth: 2
+   :caption:  Examples and success stories
+
+   examples/example1
+   examples/example2
+
 .. toctree::
 
-   usage
-   api
+   :maxdepth: 2
+   :caption:  User manual
+
+   manual/login_signup
+   manual/query
+   manual/ondemandcalc
+   manual/troubleshoot
+
+.. toctree::
+
+   :maxdepth: 2
+   :caption:  Database and scientific methods
+
+   science/database
+   science/index
+   science/properties/p1
+   science/properties/p1
+   science/calculators/c1
