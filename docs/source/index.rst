@@ -1,14 +1,12 @@
 Welcome to the DiaDEM documentation
 ===================================
 
+Welcome to the official documentation for the **DiaDEM platform** including user guide and scientific documentation.
 **DiaDEM** is a platform for organic electronics providing a one-stop-shop solution from digital discovery to experimental verification by linking the virtual screening of small molecule candidates with the chemical supply chain. Much like novel lead compounds are explored in the drug discovery industry, the field of organic semiconductors, needs to extend the palette of suitable structures for light emitting diodes, photovoltaics, transistors, sensors etc.
 
 The (current) beta version of the DiaDEM platform is available at https://www.diadem-staging.de
 
 A detailed description of the DiaDEM project is available at https://www.diadem-project.de
-
-This page is the official documentation for the DiaDEM platform including user guide and scientific documentation. It is structured as follows:
-
 
 
 ..
@@ -23,6 +21,12 @@ This page is the official documentation for the DiaDEM platform including user g
 Contents
 --------
 
+This documentation is structured as follows:
+
+- The first section contains examples and success stories to illustrate how the DiaDEM platform can be utilized for the efficient development of novel organic electronic compounds. Each example includes a step-by-step guide to follow the use cases step-by-step.
+- The second section contains the actual user manual. Here we describe in detail how to use individual features of the DiaDEM platform.
+- The third section comprises information on the database (available compounds, database structure, etc.) as well as background information on scientific methods of the DiaDEM platform that were either used to precompute properties made available in the database or are available for on-demand computations.
+
 
 .. toctree::
    :maxdepth: 1
@@ -31,8 +35,8 @@ Contents
    examples/example1
    examples/example2
 
-.. toctree::
 
+.. toctree::
    :maxdepth: 1
    :caption:  User manual
 
@@ -41,13 +45,13 @@ Contents
    manual/ondemandcalc
    manual/troubleshoot
 
-.. toctree::
 
+.. toctree::
    :maxdepth: 1
    :caption:  Database and scientific methods
 
-   science/database
    science/index
-   science/properties/p1
-   science/properties/p1
-   science/calculators/c1
+   science/database
+   science/properties/index
+   science/calculators/index
+
