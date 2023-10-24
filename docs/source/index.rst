@@ -25,7 +25,7 @@ Contents
 
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption:  Examples and success stories
 
    examples/example1
@@ -33,7 +33,7 @@ Contents
 
 .. toctree::
 
-   :maxdepth: 2
+   :maxdepth: 1
    :caption:  User manual
 
    manual/login_signup
@@ -43,7 +43,7 @@ Contents
 
 .. toctree::
 
-   :maxdepth: 2
+   :maxdepth: 1
    :caption:  Database and scientific methods
 
    science/database
