@@ -1,10 +1,17 @@
-Welcome to Lumache's documentation!
+Welcome to the DiaDEM documentation
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+**DiaDEM** is a platform for organic electronics providing a one-stop-shop solution from digital discovery to experimental verification by linking the virtual screening of small molecule candidates with the chemical supply chain. Much like novel lead compounds are explored in the drug discovery industry, the field of organic semiconductors, needs to extend the palette of suitable structures for light emitting diodes, photovoltaics, transistors, sensors etc.
+
+This page is the official documentation for the DiaDEM platform including
+* user guide (manual, tutorials, 
+* scientific documentation of computational methods
+* documentation of the database
+
+The (current) beta version of the DiaDEM platform is available at https://www.diadem-staging.de 
+
+A detailed description of the DiaDEM project is available at https://www.diadem-project.de
+
 
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
