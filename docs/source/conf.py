@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'DiaDEM documentation'
+copyright = '2023, Nanomatch GmbH'
+author = 'Tobias Neumann'
 
 release = '0.1'
 version = '0.1.0'
