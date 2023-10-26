@@ -23,7 +23,7 @@ Contents
 
 This documentation is structured as follows:
 
-- The first section contains examples and success stories to illustrate how the DiaDEM platform can be utilized for the efficient development of novel organic electronic compounds. Each example includes a step-by-step guide to follow the use cases step-by-step.
+- The first section contains examples and success stories to illustrate how the DiaDEM platform can be utilized for the efficient development of novel organic electronic compounds. Each example or story includes a step-by-step guide to reproduce the use cases on the DiaDEM platform.
 - The second section contains the actual user manual. Here we describe in detail how to use individual features of the DiaDEM platform.
 - The third section comprises information on the database (available compounds, database structure, etc.) as well as background information on scientific methods of the DiaDEM platform that were either used to precompute properties made available in the database or are available for on-demand computations.
 
