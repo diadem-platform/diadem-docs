@@ -32,7 +32,7 @@ This documentation is structured as follows:
    :maxdepth: 1
    :caption:  Examples and success stories
 
-   examples/example1
+   examples/NIR
    examples/example2
 
 
