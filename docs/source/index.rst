@@ -55,3 +55,8 @@ This documentation is structured as follows:
    science/properties/index
    science/calculators/index
 
+.. toctree::
+   :maxdepth: 1
+   :caption: Legal
+
+   legal/TAC
