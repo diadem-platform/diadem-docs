@@ -77,10 +77,10 @@ Submissions: By directly sending us any question, comment, suggestion, idea, fee
 
 You are responsible for what you post or upload: By sending us Submissions through any part of the Services you:
 
-    confirm that you have read and agree with our "PROHIBITED ACTIVITIES" and will not post, send, publish, upload, or transmit through the Services any Submission that is illegal, harassing, hateful, harmful, defamatory, obscene, bullying, abusive, discriminatory, threatening to any person or group, sexually explicit, false, inaccurate, deceitful, or misleading;
-    to the extent permissible by applicable law, waive any and all moral rights to any such Submission;
-    warrant that any such Submission are original to you or that you have the necessary rights and licenses to submit such Submissions and that you have full authority to grant us the above-mentioned rights in relation to your Submissions; and
-    warrant and represent that your Submissions do not constitute confidential information.
+- confirm that you have read and agree with our "PROHIBITED ACTIVITIES" and will not post, send, publish, upload, or transmit through the Services any Submission that is illegal, harassing, hateful, harmful, defamatory, obscene, bullying, abusive, discriminatory, threatening to any person or group, sexually explicit, false, inaccurate, deceitful, or misleading;
+- to the extent permissible by applicable law, waive any and all moral rights to any such Submission;
+- warrant that any such Submission are original to you or that you have the necessary rights and licenses to submit such Submissions and that you have full authority to grant us the above-mentioned rights in relation to your Submissions; and
+- warrant and represent that your Submissions do not constitute confidential information.
 
 You are solely responsible for your Submissions and you expressly agree to reimburse us for any and all losses that we may suffer because of your breach of (a) this section, (b) any third party’s intellectual property rights, or (c) applicable law.
 
@@ -97,22 +97,25 @@ You may be required to register to use the Services. You agree to keep your pass
 
 PURCHASES AND PAYMENT
 =========================
-We use Paddle as Merchant of Record (the "MoR"). Any fees you pay for the Services we provide to you as part of your access to our Platform, including all applicable taxes, will be processed via Paddle.
+Pay-as-you-go and DiaDEM credits
+---------------------------------
+For pay-as-you-go usage you purchase credits for our Service via the MoR (see below). Purchased credits cannot be refunded. Credits will be deducted from your balance as you use the Service as indicated. If the Service fails to deliver a specific result for which credits have been deducted from your balance, these credits will automatically be refunded. Credits for Services properly executed cannot be refunded to your balance.
 
-Payment related data including address and credit card information will be collected by the MoR in order to process your payment. You agree to provide current, complete, and accurate purchase and account information for all purchases made via the MoR for our Services. You further agree to promptly update account and payment information, including email address, payment method, and payment card expiration date, so that transactions can be completed and you can be contacted as needed. 
 
+Merchant of Records
+--------------------
+We use Paddle as Merchant of Record (the "MoR"). Any fees you pay for the Services we provide to you as part of your access to our Platform, including all applicable taxes, will be processed via Paddle. Payments properly made via the MoR cannot be refunded
+
+Payment related data including address and credit card information will be collected by the MoR in order to process your payment. You agree to provide current, complete, and accurate purchase and account information for all purchases made via the MoR for our Services. You further agree to promptly update account and payment information, including email address, payment method, and payment card expiration date, so that transactions can be completed and you can be contacted as needed.
+
+Payments properly made via the MoR cannot be refunded.
+
+Pricing and general remarks
+----------------------------
 We may change prices at any time. All payments shall be in Euros. You agree to pay all charges at the prices then in effect for your purchases. We reserve the right to correct any errors or mistakes in pricing, even if we have already requested or received payment.
 
 We reserve the right to refuse any order placed through the Services. We may, in our sole discretion, limit or cancel quantities purchased per person, or per order. These restrictions may include orders placed by or under the same customer account, the same payment method, and/or orders that use the same billing or shipping address. We reserve the right to limit or prohibit orders that, in our sole judgment, appear to be placed by dealers, resellers, or distributors.
 
-All payments properly made cannot be refunded.
-
-REFUND POLICY
-=================
-
-Pay-as-you-go models: For pay-as-you-go models you purchase credits for our Service. Purchased credits cannot be refunded. Credits will be deducted from your balance as you use the Service as indicated. If the Service fails to deliver a specific result for which credits have been deducted from your balance, these credits will automatically be refunded. Credits for Services properly executed, credits cannot be refunded to your balance.
-
-Subscription or plans: For any plans that include unlimited usage, payments cannot be refunded.
 
 .. This is a comment that will not be compiled into HTML 
     ALLOWED ACTIVITIES XXX Is "internal use" properly defined?
