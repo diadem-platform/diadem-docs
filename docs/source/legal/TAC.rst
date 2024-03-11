@@ -11,7 +11,7 @@ Version 1.0.0 made and effective 30.04.2024
 AGREEMENT TO OUR LEGAL TERMS
 =============================
 
-We are Nanomatch GmbH ("Company," "we," "us," "our"), a company registered in Germany at BLastreet 3, Kruaa, Baden 711111. Our VAT number is DE 23012222222.
+We are Nanomatch GmbH ("Company," "we," "us," "our"), a company registered in Germany at Griesbachstr. 5, 76185 Karlsruhe. Our VAT number is DE 23012222222.
 
 We operate the DiaDEM platform accessible at diadem.com (the "Platform"), as well as any other related products and services that refer or link to these legal terms (the "Legal Terms") (collectively, the "Services").
 
@@ -117,8 +117,7 @@ We may change prices at any time. All payments shall be in Euros. You agree to p
 We reserve the right to refuse any order placed through the Services. We may, in our sole discretion, limit or cancel quantities purchased per person, or per order. These restrictions may include orders placed by or under the same customer account, the same payment method, and/or orders that use the same billing or shipping address. We reserve the right to limit or prohibit orders that, in our sole judgment, appear to be placed by dealers, resellers, or distributors.
 
 
-.. This is a comment that will not be compiled into HTML 
-    ALLOWED ACTIVITIES XXX Is "internal use" properly defined?
+.. ALLOWED ACTIVITIES XXX Is "internal use" properly defined?
     =====================
     XXList here all activities explicitly allowed:
     - use any information based on interaction with the Service (queries, on-demand computations) for internal business purpose (e.g. development of OE devices)
@@ -136,48 +135,49 @@ You may not access or use the Services for any purpose other than that for which
 
 As a user of the Services, you agree not to:
 
-    Systematically retrieve data or other content from the Services to create or compile, directly or indirectly, a collection, compilation, database, or directory without written permission from us.
-    Trick, defraud, or mislead us and other users, especially in any attempt to learn sensitive account information such as user passwords.
-    Circumvent, disable, or otherwise interfere with security-related features of the Services, including features that prevent or restrict the use or copying of any Content or enforce limitations on the use of the Services and/or the Content contained therein.
-    Disparage, tarnish, or otherwise harm, in our opinion, us and/or the Services.
-    Use any information obtained from the Services in order to harass, abuse, or harm another person.
-    Make improper use of our support services or submit false reports of abuse or misconduct.
-    Use the Services in a manner inconsistent with any applicable laws or regulations.
-    Engage in unauthorized framing of or linking to the Services.
-    Upload or transmit (or attempt to upload or to transmit) viruses, Trojan horses, or other material, including excessive use of capital letters and spamming (continuous posting of repetitive text), that interferes with any party’s uninterrupted use and enjoyment of the Services or modifies, impairs, disrupts, alters, or interferes with the use, features, functions, operation, or maintenance of the Services.
-    Engage in any automated use of the system, such as using scripts to send comments or messages, or using any data mining, robots, or similar data gathering and extraction tools.
-    Delete the copyright or other proprietary rights notice from any Content.
-    Attempt to impersonate another user or person or use the username of another user.
-    Upload or transmit (or attempt to upload or to transmit) any material that acts as a passive or active information collection or transmission mechanism, including without limitation, clear graphics interchange formats ("gifs"), 1×1 pixels, web bugs, cookies, or other similar devices (sometimes referred to as "spyware" or "passive collection mechanisms" or "pcms").
-    Interfere with, disrupt, or create an undue burden on the Services or the networks or services connected to the Services.
-    Harass, annoy, intimidate, or threaten any of our employees or agents engaged in providing any portion of the Services to you.
-    Attempt to bypass any measures of the Services designed to prevent or restrict access to the Services, or any portion of the Services.
-    Copy or adapt the Services' software, including but not limited to Flash, PHP, HTML, JavaScript, or other code.
-    Except as permitted by applicable law, decipher, decompile, disassemble, or reverse engineer any of the software comprising or in any way making up a part of the Services.
-    Except as may be the result of standard search engine or Internet browser usage, use, launch, develop, or distribute any automated system, including without limitation, any spider, robot, cheat utility, scraper, or offline reader that accesses the Services, or use or launch any unauthorized script or other software.
-    Use a buying agent or purchasing agent to make purchases on the Services.
-    Make any unauthorized use of the Services, including collecting usernames and/or email addresses of users by electronic or other means for the purpose of sending unsolicited email, or creating user accounts by automated means or under false pretenses.
-    Use the Services as part of any effort to compete with us or otherwise use the Services and/or the Content for any revenue-generating endeavor or commercial enterprise.
-    Sell or otherwise transfer your profile.
+- Systematically retrieve data or other content from the Services to create or compile, directly or indirectly, a collection, compilation, database, or directory without written permission from us.
+- Trick, defraud, or mislead us and other users, especially in any attempt to learn sensitive account information such as user passwords.
+- Circumvent, disable, or otherwise interfere with security-related features of the Services, including features that prevent or restrict the use or copying of any Content or enforce limitations on the use of the Services and/or the Content contained therein.
+- Attempt to bypass any measures of the Services designed to prevent or restrict access to the Services, or any portion of the Services.
+- Disparage, tarnish, or otherwise harm, in our opinion, us and/or the Services.
+.. - Use any information obtained from the Services in order to harass, abuse, or harm another person.
+
+- Make improper use of our support services or submit false reports of abuse or misconduct.
+- Use the Services in a manner inconsistent with any applicable laws or regulations.
+- Engage in unauthorized framing of or linking to the Services.
+- Upload or transmit (or attempt to upload or to transmit) viruses, Trojan horses, or other material, including excessive use of capital letters and spamming (continuous posting of repetitive text), that interferes with any party’s uninterrupted use and enjoyment of the Services or modifies, impairs, disrupts, alters, or interferes with the use, features, functions, operation, or maintenance of the Services.
+- Engage in any automated use of the system, such as using scripts to send comments or messages, or using any data mining, robots, or similar data gathering and extraction tools.
+- Delete the copyright or other proprietary rights notice from any Content.
+- Attempt to impersonate another user or person or use the username of another user.
+- Upload or transmit (or attempt to upload or to transmit) any material that acts as a passive or active information collection or transmission mechanism, including without limitation, clear graphics interchange formats ("gifs"), 1×1 pixels, web bugs, cookies, or other similar devices (sometimes referred to as "spyware" or "passive collection mechanisms" or "pcms").
+- Interfere with, disrupt, or create an undue burden on the Services or the networks or services connected to the Services.
+- Harass, annoy, intimidate, or threaten any of our employees or agents engaged in providing any portion of the Services to you.
+- Copy or adapt the Services' software, including but not limited to Flash, PHP, HTML, JavaScript, or other code.
+- Except as permitted by applicable law, decipher, decompile, disassemble, or reverse engineer any of the software comprising or in any way making up a part of the Services.
+- Except as may be the result of standard search engine or Internet browser usage, use, launch, develop, or distribute any automated system, including without limitation, any spider, robot, cheat utility, scraper, or offline reader that accesses the Services, or use or launch any unauthorized script or other software.
+- Use a buying agent or purchasing agent to make purchases on the Services.
+- Make any unauthorized use of the Services, including collecting usernames and/or email addresses of users by electronic or other means for the purpose of sending unsolicited email, or creating user accounts by automated means or under false pretenses.
+- Use the Services as part of any effort to compete with us or otherwise use the Services and/or the Content for any revenue-generating endeavor or commercial enterprise.
+- Sell or otherwise transfer your profile.
 
 USER GENERATED CONTRIBUTIONS
 ================================
 
 The Services does not offer users to submit or post content. We may provide you with the opportunity to create, submit, post, display, transmit, perform, publish, distribute, or broadcast content and materials to us or on the Services, including but not limited to text, writings, video, audio, photographs, graphics, comments, suggestions, or personal information or other material (collectively, "Contributions"). Contributions may be viewable by other users of the Services and through third-party websites. When you create or make available any Contributions, you thereby represent and warrant that:
 
-    The creation, distribution, transmission, public display, or performance, and the accessing, downloading, or copying of your Contributions do not and will not infringe the proprietary rights, including but not limited to the copyright, patent, trademark, trade secret, or moral rights of any third party.
-    You are the creator and owner of or have the necessary licenses, rights, consents, releases, and permissions to use and to authorize us, the Services, and other users of the Services to use your Contributions in any manner contemplated by the Services and these Legal Terms.
-    You have the written consent, release, and/or permission of each and every identifiable individual person in your Contributions to use the name or likeness of each and every such identifiable individual person to enable inclusion and use of your Contributions in any manner contemplated by the Services and these Legal Terms.
-    Your Contributions are not false, inaccurate, or misleading.
-    Your Contributions are not unsolicited or unauthorized advertising, promotional materials, pyramid schemes, chain letters, spam, mass mailings, or other forms of solicitation.
-    Your Contributions are not obscene, lewd, lascivious, filthy, violent, harassing, libelous, slanderous, or otherwise objectionable (as determined by us).
-    Your Contributions do not ridicule, mock, disparage, intimidate, or abuse anyone.
-    Your Contributions are not used to harass or threaten (in the legal sense of those terms) any other person and to promote violence against a specific person or class of people.
-    Your Contributions do not violate any applicable law, regulation, or rule.
-    Your Contributions do not violate the privacy or publicity rights of any third party.
-    Your Contributions do not violate any applicable law concerning child pornography, or otherwise intended to protect the health or well-being of minors.
-    Your Contributions do not include any offensive comments that are connected to race, national origin, gender, sexual preference, or physical handicap.
-    Your Contributions do not otherwise violate, or link to material that violates, any provision of these Legal Terms, or any applicable law or regulation.
+- The creation, distribution, transmission, public display, or performance, and the accessing, downloading, or copying of your Contributions do not and will not infringe the proprietary rights, including but not limited to the copyright, patent, trademark, trade secret, or moral rights of any third party.
+- You are the creator and owner of or have the necessary licenses, rights, consents, releases, and permissions to use and to authorize us, the Services, and other users of the Services to use your Contributions in any manner contemplated by the Services and these Legal Terms.
+- You have the written consent, release, and/or permission of each and every identifiable individual person in your Contributions to use the name or likeness of each and every such identifiable individual person to enable inclusion and use of your Contributions in any manner contemplated by the Services and these Legal Terms.
+- Your Contributions are not false, inaccurate, or misleading.
+- Your Contributions are not unsolicited or unauthorized advertising, promotional materials, pyramid schemes, chain letters, spam, mass mailings, or other forms of solicitation.
+- Your Contributions are not obscene, lewd, lascivious, filthy, violent, harassing, libelous, slanderous, or otherwise objectionable (as determined by us).
+- Your Contributions do not ridicule, mock, disparage, intimidate, or abuse anyone.
+- Your Contributions are not used to harass or threaten (in the legal sense of those terms) any other person and to promote violence against a specific person or class of people.
+- Your Contributions do not violate any applicable law, regulation, or rule.
+- Your Contributions do not violate the privacy or publicity rights of any third party.
+- Your Contributions do not violate any applicable law concerning child pornography, or otherwise intended to protect the health or well-being of minors.
+- Your Contributions do not include any offensive comments that are connected to race, national origin, gender, sexual preference, or physical handicap.
+- Your Contributions do not otherwise violate, or link to material that violates, any provision of these Legal Terms, or any applicable law or regulation.
 
 Any use of the Services in violation of the foregoing violates these Legal Terms and may result in, among other things, termination or suspension of your rights to use the Services.
 
@@ -203,7 +203,7 @@ We reserve the right, but not the obligation, to: (1) monitor the Services for v
 PRIVACY POLICY
 ====================================
 
-We care about data privacy and security. By using the Services, you agree to be bound by our Privacy Policy posted on the Services, which is incorporated into these Legal Terms. Please be advised the Services are hosted in __________. If you access the Services from any other region of the world with laws or other requirements governing personal data collection, use, or disclosure that differ from applicable laws in __________, then through your continued use of the Services, you are transferring your data to __________, and you expressly consent to have your data transferred to and processed in __________.
+We care about data privacy and security. By using the Services, you agree to be bound by our Privacy Policy posted on the Services, which is incorporated into these Legal Terms. Please be advised the Services are hosted in the United States of America (USA). If you access the Services from any other region of the world with laws or other requirements governing personal data collection, use, or disclosure that differ from applicable laws in the USA, then through your continued use of the Services, you are transferring your data to USA, and you expressly consent to have your data transferred to and processed in the USA
 
 TERM AND TERMINATION
 ====================================
@@ -242,7 +242,7 @@ THE SERVICES ARE PROVIDED ON AN AS-IS AND AS-AVAILABLE BASIS. YOU AGREE THAT YOU
 LIMITATIONS OF LIABILITY
 ====================================
 
-IN NO EVENT WILL WE OR OUR DIRECTORS, EMPLOYEES, OR AGENTS BE LIABLE TO YOU OR ANY THIRD PARTY FOR ANY DIRECT, INDIRECT, CONSEQUENTIAL, EXEMPLARY, INCIDENTAL, SPECIAL, OR PUNITIVE DAMAGES, INCLUDING LOST PROFIT, LOST REVENUE, LOSS OF DATA, OR OTHER DAMAGES ARISING FROM YOUR USE OF THE SERVICES, EVEN IF WE HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. NOTWITHSTANDING ANYTHING TO THE CONTRARY CONTAINED HEREIN, OUR LIABILITY TO YOU FOR ANY CAUSE WHATSOEVER AND REGARDLESS OF THE FORM OF THE ACTION, WILL AT ALL TIMES BE LIMITED TO THE AMOUNT PAID, IF ANY, BY YOU TO US DURING THE three (3) mONTH PERIOD PRIOR TO ANY CAUSE OF ACTION ARISING. CERTAIN US STATE LAWS AND INTERNATIONAL LAWS DO NOT ALLOW LIMITATIONS ON IMPLIED WARRANTIES OR THE EXCLUSION OR LIMITATION OF CERTAIN DAMAGES. IF THESE LAWS APPLY TO YOU, SOME OR ALL OF THE ABOVE DISCLAIMERS OR LIMITATIONS MAY NOT APPLY TO YOU, AND YOU MAY HAVE ADDITIONAL RIGHTS.
+IN NO EVENT WILL WE OR OUR DIRECTORS, EMPLOYEES, OR AGENTS BE LIABLE TO YOU OR ANY THIRD PARTY FOR ANY DIRECT, INDIRECT, CONSEQUENTIAL, EXEMPLARY, INCIDENTAL, SPECIAL, OR PUNITIVE DAMAGES, INCLUDING LOST PROFIT, LOST REVENUE, LOSS OF DATA, OR OTHER DAMAGES ARISING FROM YOUR USE OF THE SERVICES, EVEN IF WE HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. NOTWITHSTANDING ANYTHING TO THE CONTRARY CONTAINED HEREIN, OUR LIABILITY TO YOU FOR ANY CAUSE WHATSOEVER AND REGARDLESS OF THE FORM OF THE ACTION, WILL AT ALL TIMES BE LIMITED TO THE AMOUNT PAID, IF ANY, BY YOU TO US DURING THE THREE (3) MONTH PERIOD PRIOR TO ANY CAUSE OF ACTION ARISING. CERTAIN US STATE LAWS AND INTERNATIONAL LAWS DO NOT ALLOW LIMITATIONS ON IMPLIED WARRANTIES OR THE EXCLUSION OR LIMITATION OF CERTAIN DAMAGES. IF THESE LAWS APPLY TO YOU, SOME OR ALL OF THE ABOVE DISCLAIMERS OR LIMITATIONS MAY NOT APPLY TO YOU, AND YOU MAY HAVE ADDITIONAL RIGHTS.
 
 INDEMNIFICATION
 ====================================
