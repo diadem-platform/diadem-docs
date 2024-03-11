@@ -30,10 +30,12 @@ We recommend that you print a copy of these Legal Terms for your records
 
 OUR SERVICES
 ===============
+Our Services are made available via the Platform at www.diadem.com. For registered users (see below), this platform provides access to a database of organic electronic molecules with precomputed photophysical properties and meta-properties such as availability and indicative price. This database can be queried by precomputed properties. Further, register users can initiate on-demand computations for advanced properties for any compound available in the database, and for chemical structures provided by the user.
 
-The information provided when using the Services is not intended for distribution to or use by any person or entity in any jurisdiction or country where such distribution or use would be contrary to law or regulation or which would subject us to any registration requirement within such jurisdiction or country. Accordingly, those persons who choose to access the Services from other locations do so on their own initiative and are solely responsible for compliance with local laws, if and to the extent local laws are applicable.
+Any information provided when using the Services, such as but not limited to chemical structures and precomputed properties or results of on-demand-computations, is not intended for distribution to or use by any person or entity in any jurisdiction or country where such distribution or use would be contrary to law or regulation or which would subject us to any registration requirement within such jurisdiction or country. Accordingly, those persons who choose to access the Services from other locations do so on their own initiative and are solely responsible for compliance with local laws, if and to the extent local laws are applicable.
 
 The Services are not tailored to comply with industry-specific regulations (Health Insurance Portability and Accountability Act (HIPAA), Federal Information Security Management Act (FISMA), etc.), so if your interactions would be subjected to such laws, you may not use the Services. You may not use the Services in a way that would violate the Gramm-Leach-Bliley Act (GLBA).
+
 
 INTELLECTUAL PROPERTY RIGHTS
 ================================
