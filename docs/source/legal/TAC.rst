@@ -140,8 +140,6 @@ As a user of the Services, you agree not to:
 - Circumvent, disable, or otherwise interfere with security-related features of the Services, including features that prevent or restrict the use or copying of any Content or enforce limitations on the use of the Services and/or the Content contained therein.
 - Attempt to bypass any measures of the Services designed to prevent or restrict access to the Services, or any portion of the Services.
 - Disparage, tarnish, or otherwise harm, in our opinion, us and/or the Services.
-.. - Use any information obtained from the Services in order to harass, abuse, or harm another person.
-
 - Make improper use of our support services or submit false reports of abuse or misconduct.
 - Use the Services in a manner inconsistent with any applicable laws or regulations.
 - Engage in unauthorized framing of or linking to the Services.
@@ -159,6 +157,8 @@ As a user of the Services, you agree not to:
 - Make any unauthorized use of the Services, including collecting usernames and/or email addresses of users by electronic or other means for the purpose of sending unsolicited email, or creating user accounts by automated means or under false pretenses.
 - Use the Services as part of any effort to compete with us or otherwise use the Services and/or the Content for any revenue-generating endeavor or commercial enterprise.
 - Sell or otherwise transfer your profile.
+
+.. - Use any information obtained from the Services in order to harass, abuse, or harm another person.
 
 USER GENERATED CONTRIBUTIONS
 ================================
