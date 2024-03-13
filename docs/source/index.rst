@@ -60,3 +60,4 @@ This documentation is structured as follows:
    :caption: Legal
 
    legal/TAC
+   legal/PrivacyPolicy
