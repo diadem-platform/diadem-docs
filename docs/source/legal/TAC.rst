@@ -2,12 +2,6 @@
 Terms and Conditions
 ====================
 
----------
-Version
----------
-
-Version 1.0.0 made and effective 30.04.2024
-
 AGREEMENT TO OUR LEGAL TERMS
 =============================
 
@@ -99,16 +93,14 @@ PURCHASES AND PAYMENT
 =========================
 Pay-as-you-go and DiaDEM credits
 ---------------------------------
-For pay-as-you-go usage you purchase credits for our Service via the MoR (see below). Purchased credits cannot be refunded. Credits will be deducted from your balance as you use the Service as indicated. If the Service fails to deliver a specific result for which credits have been deducted from your balance, these credits will automatically be refunded. Credits for Services properly executed cannot be refunded to your balance.
+For pay-as-you-go usage you purchase credits for our Service via the MoR (see below). Purchased credits cannot be refunded. Credits will be deducted from your balance as you use the Service as indicated during the usage. If the Service fails to deliver a specific result for which credits have been deducted from your balance, the corresponding amounts of credits will automatically be refunded to your balance. Credits for Services properly executed cannot be refunded to your balance.
 
 
 Merchant of Records
 --------------------
-We use Paddle as Merchant of Record (the "MoR"). Any fees you pay for the Services we provide to you as part of your access to our Platform, including all applicable taxes, will be processed via Paddle. Payments properly made via the MoR cannot be refunded
+We use Paddle as Merchant of Record (the "MoR"). Any fees you pay for the Services we provide to you as part of your access to our Platform, including all applicable taxes, will be processed via Paddle. 
 
 Payment related data including address and credit card information will be collected by the MoR in order to process your payment. You agree to provide current, complete, and accurate purchase and account information for all purchases made via the MoR for our Services. You further agree to promptly update account and payment information, including email address, payment method, and payment card expiration date, so that transactions can be completed and you can be contacted as needed.
-
-Payments properly made via the MoR cannot be refunded.
 
 Pricing and general remarks
 ----------------------------
@@ -280,3 +272,9 @@ Griesbachstr. 5
 Germany
 Phone: +49 721 95965454
 info@nanomatch.com
+
+
+Version
+========
+
+Version 1.0.0 made and effective 30.04.2024
