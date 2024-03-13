@@ -221,6 +221,5 @@ Developed by the specialists for LegalTech at Willing & Able that also developed
 
 Version
 ========
-
-
 Version 1.0.0 made and effective 30.04.2024
+
