@@ -6,7 +6,7 @@ Privacy Policy
 Introduction to our Privacy Policy
 ======================================
 
-We are very delighted that you have shown interest in our enterprise. We operate the DiaDEM platform accessible at www.diadem.com (the "Platform"), as well as any other related products and services that refer or link to these legal terms (the "Legal Terms") (collectively, the "Services"). To operate the Services requires the collection of certain user data, including some personal data.
+We are very delighted that you have shown interest in our enterprise. We operate the DiaDEM platform accessible at www.diadem-platform.de (the "Platform"), as well as any other related products and services that refer or link to these legal terms (the "Legal Terms") (collectively, the "Services"). To operate the Services requires the collection of certain user data, including some personal data.
 
 Data protection is of a particularly high priority for the management of the Nanomatch GmbH. The use of the Internet pages of the Nanomatch GmbH is possible without any indication of personal data; however, if a data subject wants to use special enterprise services via our website, processing of personal data could become necessary. If the processing of personal data is necessary and there is no statutory basis for such processing, we generally obtain consent from the data subject.
 
@@ -43,7 +43,7 @@ Griesbachstr. 5
 76185 Karlsruhe, Germany
 Phone: +4972195965454
 Email: info@nanomatch.com
-Website: www.diadem.de www.nanomatch.de www.simstack.eu
+Website: www.diadem-platform.de www.nanomatch.de www.simstack.eu
 
 3. Cookies
 ============
