@@ -10,7 +10,10 @@ DiaDEM is built around properties computed for organic electronic materials: Use
    :maxdepth: 2
    :caption:  Precomputed properties
 
-   p1
+   conjugate_ratio
+   esol
+   toxicityflag
+   patentflag
 
 .. toctree::
    :maxdepth: 2
