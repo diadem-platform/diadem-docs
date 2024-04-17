@@ -52,8 +52,6 @@ This page provides the following content:
 * The bottom table lists each compound that fulfills *both* criteria with the respective values of the queried properties.
 
 
-
-
 Past queries
 -------------------------
 
