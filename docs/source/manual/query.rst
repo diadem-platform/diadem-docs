@@ -43,9 +43,15 @@ This page provides the following content:
 
 * The table in the top left shows the query specification
 * The figure in the top right depicts, how many compounds in the database fulfil each criterion separately and combined.
+* Click on any molecule (InChIKey or smiles) to view all available properties of the molecule
+* Select one or multiple molecules and use the row of buttons above the table to
+    * Run on-demand computations on these molecules for refinement of your query (see :ref:`manual_ondemand`)
+    * Add molecules to the cart for :ref:`manual_cart`
+    * Compare multiple compounds side-by-side (currently in development)
+    * Export some subset of the data as a csv file
 * The bottom table lists each compound that fulfills *both* criteria with the respective values of the queried properties.
 
-Click on any molecule (InChIKey or smiles) to view all available properties of the molecule.
+
 
 
 Past queries
