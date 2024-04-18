@@ -4,7 +4,7 @@ Login and Signup
 The DiaDEM platform is currently available for beta testing in the staging-environment at www.diadem-staging.de. Signup and Login pages are available via the top right menu.
 
 +------------------------------------------+------------------------------------------+
-| .. figure:: ../assets/manual/signup.png  | .. figure:: ../assets/manual/login.png   |
+| .. figure:: images/signup.png            | .. figure:: images/login.png             |
 |    :align: center                        |    :align: center                        |
 |    :alt: signup screenshot               |    :alt: login screenshot                |
 +------------------------------------------+------------------------------------------+
