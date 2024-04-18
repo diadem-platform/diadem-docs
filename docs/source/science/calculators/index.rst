@@ -15,5 +15,5 @@ To identify the calculator most suitable for your purpose, this section provides
 .. toctree::
    :maxdepth: 2
 
-   c1
-   
+   morphology
+   ipea   

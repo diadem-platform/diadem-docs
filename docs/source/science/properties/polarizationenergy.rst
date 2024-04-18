@@ -1,6 +1,6 @@
-.. _science_properties_p1:
+.. _science_properties_polarizationenergy:
 
-P1
+Polarization energy in organic thin films
 =============================================
 
 

@@ -16,4 +16,7 @@ DiaDEM is built around properties computed for organic electronic materials: Use
    :maxdepth: 2
    :caption: Properties for on-demand computations
 
-   p2
+   morphology
+   ipea
+   polarizationenergy
+   permittivity

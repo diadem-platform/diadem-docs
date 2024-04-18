@@ -1,6 +1,6 @@
-.. _science_properties_p1:
+.. _science_properties_ipea:
 
-P1
+Ionization potential and electron affinity
 =============================================
 
 
