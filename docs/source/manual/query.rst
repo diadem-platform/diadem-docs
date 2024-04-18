@@ -1,3 +1,5 @@
+.. _manual_query:
+
 Queries
 =========
 
@@ -9,7 +11,7 @@ The query builder for DiaDEM is available directly via *Search* in the sidebar m
 
 **Groups**
 
-* Each Group corresponds to a specific property. E.g. if you wish to search the database for molecules that statisfy three different properties, e.g. Lumo, S1-energy and availability, you need three groups. 
+* Each Group corresponds to a specific property. E.g. if you wish to search the database for molecules that statisfy three different properties, e.g. Lumo, S1-energy and availability, you need three groups.
 * Use the *+Group* button to add a Group. A new frame with a *+Role* button will appear.
 * Use the *x* button next to the *+Role* button to remove a respective Group
 
@@ -28,7 +30,7 @@ The query builder for DiaDEM is available directly via *Search* in the sidebar m
 **Example**
 The following figure is an example of a query for two properties: LUMO<3.0eV computed with a specific calculator, and E(S1)<3.0 computed with any calculator.
 
-.. image:: ../assets/manual/querySetup.png
+.. image:: images/querySetup.png
    :alt: Query Setup Example
 
 
@@ -36,7 +38,7 @@ Query results
 --------------
 When a query was submitted, the results are displayed, as in the example below:
 
-.. image:: ../assets/manual/queryResult.png
+.. image:: images/queryResult.png
    :alt: Query Result Example
 
 This page provides the following content:
