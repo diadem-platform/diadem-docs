@@ -1,4 +1,4 @@
-Frontier Orbitals
+HOMO, LUMO
 =================
 
 Frontier orbitals are derived from molecular orbital theory and are important in describing both the reactivity and electronic properties of organic molecules. These orbitals are the highest occupied molecular orbital (HOMO) and the lowest unoccupied molecular orbital (LUMO). 

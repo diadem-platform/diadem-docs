@@ -1,4 +1,4 @@
-Excited States
+S, T, f: Excited state properties
 ==============
 
 Closed-shell molecules exists in stable, singlet ground states (:math:`S_{0}`) where all of their electrons are paired in the occupied orbitals. Excitation refers to the promotion of an electron into higher-energy orbitals, typically with the absorption of a photon, transitioning the molecule from its ground state to an excited state: singlets (:math:`S_{n}`) for electrons remaining in anti-parallel spin alignment after excitation and triplets (:math:`T_{n}`) for parallel-spin electrons.
