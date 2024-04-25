@@ -10,8 +10,8 @@ DiaDEM is built around properties computed for organic electronic materials: Use
    :maxdepth: 3
    :caption:  Precomputed properties
 
-   frontier
-   excitation
+   Frontier_orbitals
+   Excited_states
 
 .. toctree::
    :maxdepth: 2
