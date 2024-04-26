@@ -1,3 +1,5 @@
+.. _science_properties_excited_states:
+
 S, T, f: Excited state properties
 =================================
 
@@ -9,7 +11,7 @@ In general, absorption corresponds to the vertical :math:`S_{0}` > :math:`S_{n}`
 
 Oscillator strengths correspond to the propensity for the transition to occur and are related to the intensity of a transition. Excitations from :math:`S_{0}` > :math:`T_{n}` are formally forbidden and have zero oscillator strengths.  
 
-In the DiaDEM database, single-molecule, vacuum vertical excitation energies related to absorption are provided, in units of eV, as precomputed properties and are estimated using the **Calibrated (TD)DFT** protocol. These are calibrated to experimental values. Oscillator strength values are also provided. 
+In the DiaDEM database, single-molecule, vacuum vertical excitation energies related to absorption are provided, in units of eV, as precomputed properties and are estimated using the :ref:`science_calculators_calibrated_TDDFT` protocol. These are calibrated to experimental values. Oscillator strength values are also provided. 
 
 1. :math:`E(S_{1})`: :math:`S_{0}` > :math:`S_{1}` vertical transition energy
 2. :math:`f(S_{1})`: oscillator strength for the :math:`S_{0}` > :math:`S_{1}` transition
