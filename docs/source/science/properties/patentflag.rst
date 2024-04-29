@@ -1,4 +1,4 @@
-PatentFlag
+Patent flag
 =============
 
 Patent and article derived chemical databases are widely utilized for the evaluation of novelty.

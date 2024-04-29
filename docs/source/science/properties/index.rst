@@ -11,7 +11,7 @@ DiaDEM is built around properties computed for organic electronic materials: Use
    :caption:  Precomputed properties
 
    conjugate_ratio
-   esol
+   solubility
    toxicityflag
    patentflag
 
