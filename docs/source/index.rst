@@ -33,6 +33,7 @@ This documentation is structured as follows:
    :caption:  Examples and success stories
 
    examples/SF
+   examples/NIR_simplified
    examples/example2
 
 
