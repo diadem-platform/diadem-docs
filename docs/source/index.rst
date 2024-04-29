@@ -43,6 +43,7 @@ This documentation is structured as follows:
    manual/login_signup
    manual/query
    manual/ondemandcalc
+   manual/cart
    manual/troubleshoot
 
 
