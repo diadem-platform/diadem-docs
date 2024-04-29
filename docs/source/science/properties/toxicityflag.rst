@@ -1,4 +1,4 @@
-ToxicityFlag
+Toxicity flag
 =============
 
 Organic electronic devices have potential applications ranging from light emitting devices (in-door and out-door as well), devices operating in extreme conditions to wearable devices that are in constant contact with our skin, or even medical devices that can be within our body.

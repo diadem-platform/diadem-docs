@@ -13,7 +13,7 @@ DiaDEM is built around properties computed for organic electronic materials: Use
    Frontier_orbitals
    Excited_states
    conjugate_ratio
-   esol
+   solubility
    toxicityflag
    patentflag
 
