@@ -34,7 +34,6 @@ This documentation is structured as follows:
 
    examples/SF
    examples/NIR_simplified
-   examples/example2
 
 
 .. toctree::
