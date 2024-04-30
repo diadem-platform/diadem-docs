@@ -11,4 +11,4 @@ Based on the collected literature data, generalized patterns are provided in SMA
 Based on these SMARTS patterns we have **flagged** compounds matching these patterns and probably possessing toxical features.
 
 
-.. [#] Iurii Sushko et al, J. Chem. Inf. Model. 2012, 52, 8, 2310–2316 https://pubs.acs.org/doi/10.1021/ci300245q
+.. [1] Iurii Sushko et al, J. Chem. Inf. Model. 2012, 52, 8, 2310–2316 https://pubs.acs.org/doi/10.1021/ci300245q
