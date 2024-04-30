@@ -11,4 +11,4 @@ Although chirality and tautomer forms could be important factors in the working 
 patentability is mainly covered for the core chemical structure, and usually all stereoisomers and tautomers are covered with the same application.
 Therefore, for the comparison we selected Sp2- level matching, based on generated InChIs and in case of matched we have **flagged** the relevant compounds.
 
-.. [#] George Papadatos et al, Nucleic Acids Res. 2016 Jan 4; 44(Database issue): D1220–D1228. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4702887/
+.. [1] George Papadatos et al, Nucleic Acids Res. 2016 Jan 4; 44(Database issue): D1220–D1228. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4702887/
