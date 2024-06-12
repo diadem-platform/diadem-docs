@@ -10,7 +10,7 @@ Charge carrier mobility :math:`\mu` is a fundamental parameter in organic electr
     v_d = \mu \cdot E
 
 
-This property is pivotal for the performance of organic electronics devices such as organic field-effect transistors (OFETs) and organic photovoltaic cells (OPVs).
+This property is pivotal for the performance of organic electronics devices such as organic field-effect transistors (OFETs), organic photovoltaic cells (OPVs), and organic light-emitting diodes (OLEDs).
 
 In amorphous organic semiconductors, charge carrier mobility is typically orders of magnitude lower than in other materials classes:
 
@@ -23,10 +23,11 @@ In amorphous organic semiconductors, charge carrier mobility is typically orders
 
 This is because charge carriers cannot move smoothly in organic semiconductors as they do in crystalline materials due to the lack of long-range structural order [1]_, [2]_, [3]_, [4]_, [5]_. This disorder creates energy barriers and traps, leading to a hopping transport mechanism, where achieving the high mobility is inherently challenging because of the limited overlap of the orbitals. Additionally, organic semiconductors are more sensitive to environmental factors, which can introduce additional traps and defects, further reducing mobility [5]_.
 
+
 Muti-scale origin of the mobility
 ---------------------------------
 
-The structure of a molecule is a key factor in determining how molecules are packed within a morphology. Characteristics of morphology, such as mass density, radial distribution function, and structural disorder, intricately define the environment in which charge carriers move. The variability in molecular conformations within the morphology causes HOMO/LUMO disorder and affects proximity to neighbors. This variability in the local environment further influences the energy landscape through which the carriers traverse the organic layers. The complexity of this relationship prohibits the existence of an accurate analytical formula for mobility; therefore, a multiscale workflow is employed to find mobility with satisfactory accuracy.
+The structure of a molecule is a key factor in determining how molecules are packed within a morphology. Characteristics of morphology, such as mass density, radial distribution function, and structural disorder, intricately define the environment in which charge carriers move. The variability in molecular conformations and a unique embedding of every molecule within the morphology causes HOMO/LUMO disorder and smearing of the radial distribution function. This influences the energy landscape through which the carriers traverse the organic layers. The complexity of this relationship prohibits the existence of an accurate analytical formula for mobility; therefore, a multiscale workflow is employed to find mobility with satisfactory accuracy.
 
 Nanomatch GmbH, in collaboration with research groups of Wolfgang Wenzel and Pascal Friederich at the Karlsruhe Institute of Technology, has made substantial progress in understanding the factors affecting charge carrier mobility in organic semiconductors and incorporating these factors into a multiscale simulation workflow.
 
