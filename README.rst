@@ -1,28 +1,36 @@
-DiaDEM documentation
-=======================================
-Purpose 
---------
-This respository contains the public documentation of the DiaDEM platform, including user manual, scientific documentation (computational methods), documentation of the database, and terms of usage. 
+DiaDEM Documentation
+====================
 
-The documentation is hosted on read the docs: https://diadem.readthedocs.io/en/latest/
+Purpose
+-------
+This repository contains the public documentation of the DiaDEM platform, including the user manual, scientific documentation (computational methods), documentation of the database, and terms of usage.
+
+The documentation is hosted on Read the Docs: `DiaDEM Documentation <https://diadem.readthedocs.io/en/latest/>`_
 
 Restructured Text (rst)
 -----------------------
-The documentation is written in restructured Text. Checkout a the cheat sheet of rst: https://github.com/ralsina/rst-cheatsheet/blob/master/rst-cheatsheet.rst ; another available here: https://docutils.sourceforge.io/docs/user/rst/quickref.html
+The documentation is written in reStructuredText. Check out the cheat sheet of reStructuredText: `Cheat Sheet <https://github.com/ralsina/rst-cheatsheet/blob/master/rst-cheatsheet.rst>`_; another available here: `Quick Reference <https://docutils.sourceforge.io/docs/user/rst/quickref.html>`_
 
-Local build (testing)
-----------------------
-To locally build the documentation, cd into the docs folder and run
-make html
+Local Build (Testing)
+---------------------
+To locally build the documentation, navigate into the ``docs`` folder and run:
 
-Note that you need to have sphinx installed for this 
-pip install sphinx
-pip install sphinx-rtd-theme
+.. code-block:: sh
 
-Commings and PRs
--------------------
-Please work in a separate branch, not in main. 
-1. Create and checkout a new branch
-2. While you work, best commit every releasable increment separately; push every now and then.
-3. If you want your changes to go online, log in to the github repository and create a pull request (PR)
-4. The admins will review the PR and merge into main, the changes will then go online automatically
+    make html
+
+Note that you need to have Sphinx installed for this:
+
+.. code-block:: sh
+
+    pip install sphinx
+    pip install sphinx-rtd-theme
+
+Commits and Pull Requests (PRs)
+-------------------------------
+Please work in a separate branch, not in ``main``.
+
+1. Create and checkout a new branch.
+2. While you work, commit every releasable increment separately; push every now and then.
+3. If you want your changes to go online, log in to the GitHub repository and create a pull request (PR).
+4. The admins will review the PR and merge it into ``main``; the changes will then go online automatically.
