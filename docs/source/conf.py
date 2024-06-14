@@ -33,3 +33,6 @@ html_theme = 'sphinx_rtd_theme'
 
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
+
+# if non-graphical are needed in the build, put there into _static
+html_static_path = ['_static']
