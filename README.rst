@@ -51,11 +51,10 @@ Example::
     source/
     └── path/
         └── to/
-            └── my_file/
-                ├── my_name.rst
-                └── my_name/
-                    ├── my_image_1.png
-                    └── my_image_2.png
+            ├── my_name.rst
+            └── my_name/
+                ├── my_image_1.png
+                └── my_image_2.png
 
 
 Files
@@ -70,9 +69,8 @@ Example::
     ├── _static/
     │   └── path/
     │       └── to/
-    │           └── my_file/
+    │           └── my_name/
     │               └── my_text_file.txt
     └── path/
         └── to/
-            └── my_file/
-                └── my_name.rst
+            └── my_name.rst
