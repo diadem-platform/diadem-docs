@@ -44,18 +44,16 @@ Images
 
 Create a folder named after your `.rst` file and place images there.
 
-Example:
+Example::
 
-```
-source/
-└── path/
-    └── to/
-        └── my_file/
-            ├── my_name.rst
-            └── my_name/
-                ├── my_image_1.png
-                └── my_image_2.png
-```
+    source/
+    └── path/
+        └── to/
+            └── my_file/
+                ├── my_name.rst
+                └── my_name/
+                    ├── my_image_1.png
+                    └── my_image_2.png
 
 
 Files
@@ -63,10 +61,9 @@ Files
 
 Place in the `_static` folder, mimicking the path structure of your `.rst` file.
 
-Example:
+Example::
 
 
-```
     source/
     ├── _static/
     │   └── path/
@@ -77,4 +74,3 @@ Example:
         └── to/
             └── my_file/
                 └── my_name.rst
-```
