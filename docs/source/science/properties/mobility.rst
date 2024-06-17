@@ -14,7 +14,7 @@ This property is pivotal for the performance of organic electronics devices such
 
 In amorphous organic semiconductors, charge carrier mobility is typically orders of magnitude lower than in other materials classes:
 
-.. figure:: mobility_comparision.png
+.. figure:: mobility/mobility_comparision.png
    :alt: Charge Carrier Mobility Comparison
    :width: 50%
    :align: center
