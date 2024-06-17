@@ -63,19 +63,14 @@ Place in the `_static` folder, mimicking the path structure of your `.rst` file.
 
 Example:
 
-source/
-├── _static/
-│   └── path/
-│       └── to/
-│           └── my_file/
-│               └── my_text_file.txt
-└── path/
-    └── to/
-        └── my_file/
-            └── my_name.rst
-
-
-
-
-
-
+::
+    source/
+    ├── _static/
+    │   └── path/
+    │       └── to/
+    │           └── my_file/
+    │               └── my_text_file.txt
+    └── path/
+        └── to/
+            └── my_file/
+                └── my_name.rst
