@@ -34,3 +34,48 @@ Please work in a separate branch, not in ``main``.
 2. While you work, commit every releasable increment separately; push every now and then.
 3. If you want your changes to go online, log in to the GitHub repository and create a pull request (PR).
 4. The admins will review the PR and merge it into ``main``; the changes will then go online automatically.
+
+
+Conventions
+-----------
+
+Images
+~~~~~~
+
+Create a folder named after your `.rst` file and place images there.
+
+Example:
+
+source/
+└── path/
+    └── to/
+        └── my_file/
+            ├── my_name.rst
+            └── my_name/
+                ├── my_image_1.png
+                └── my_image_2.png
+
+
+Files
+~~~~~
+
+Place in the `_static` folder, mimicking the path structure of your `.rst` file.
+
+Example:
+
+source/
+├── _static/
+│   └── path/
+│       └── to/
+│           └── my_file/
+│               └── my_text_file.txt
+└── path/
+    └── to/
+        └── my_file/
+            └── my_name.rst
+
+
+
+
+
+
