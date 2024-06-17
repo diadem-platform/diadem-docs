@@ -1,4 +1,4 @@
-.. _science_properties_mobility:
+.. _science_properties_morphology:
 
 Morphology
 ==========
