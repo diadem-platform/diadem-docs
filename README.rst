@@ -39,6 +39,8 @@ Please work in a separate branch, not in ``main``.
 Conventions
 -----------
 
+Follow the instructions below if you need to show images in your `.rst` files or provide links to download files.
+
 Images
 ~~~~~~
 
