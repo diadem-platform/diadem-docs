@@ -63,7 +63,7 @@ Place in the `_static` folder, mimicking the path structure of your `.rst` file.
 
 Example:
 
-::
+```
     source/
     ├── _static/
     │   └── path/
@@ -74,3 +74,4 @@ Example:
         └── to/
             └── my_file/
                 └── my_name.rst
+```
