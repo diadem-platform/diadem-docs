@@ -1,7 +1,7 @@
 .. _science_properties_mobility:
 
 Electron and Hole Mobility
-=======================
+==========================
 
 Charge carrier mobility :math:`\mu` is a fundamental parameter in organic electronic materials, determining the speed :math:`v_d` at which charge carriers (electrons or holes) can move through a material when pushed or pulled by an electric field :math:`E`:
 
