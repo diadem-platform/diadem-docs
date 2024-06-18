@@ -1,7 +1,7 @@
 .. _science_calculators_mobility:
 
 Electron and Hole Mobility. Calculator **mobility**.
-===================================================
+====================================================
 
 
 The Nanomatch Mobility Workflow (Calculator "**mobility**") is a multiscale simulations workflow designed to calculate the charge carrier mobility of organic semiconductors starting from the first-principles.
@@ -552,7 +552,7 @@ Abbreviations
 
 
 References
----------
+----------
 
 .. _ref1:
 
