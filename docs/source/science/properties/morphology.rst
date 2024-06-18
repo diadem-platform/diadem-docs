@@ -83,6 +83,13 @@ Although this workflow integrates extensive experience and advanced simulation m
 The DiaDEM project allows you to compute detailed morphological characteristics and secondary properties for any single-component organic semiconductor by simply specifying the molecule in the form of an InChI key.
 
 
+Other Workflows that Provide Morphology
+---------------------------------------
+
+Morphology will also be generated as an important side-product of the workflow :ref:`science_calculators_mobility`.
+In fact, the workflow :ref:`science_calculators_morphology` is the same as :ref:`science_calculators_mobility` workflow terminated after the morphology is generated and analysed.
+
+
 References
 ----------
 
@@ -90,8 +97,3 @@ References
 .. [2] Friederich, P., et al., "The influence of impurities on the charge carrier mobility of small molecule organic semiconductors," arXiv, 2019. DOI: 10.48550/arXiv.1908.11854. URL: https://arxiv.org/abs/1908.11854.
 .. [3] Reiser, P., Friederich, P., et al., "Analyzing dynamical disorder for charge transport in organic semiconductors via machine learning," arXiv, 2021. DOI: 10.48550/arXiv.2102.01479. URL: https://arxiv.org/abs/2102.01479.
 .. [4] Friederich, P., "Built-In Potentials Induced by Molecular Order in Amorphous Organic Semiconductors," Karlsruhe Institute of Technology, 2021. URL: https://publikationen.bibliothek.kit.edu/1000141627/138747603.
-
-
-
-
-Morphology generation description
