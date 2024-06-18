@@ -1,11 +1,11 @@
 .. _science_calculators_mobility:
 
-Charge Carrier Mobility. Calculator **mobility**.
-=================================================
+Electron and Hole Mobility. Calculator **mobility**.
+===================================================
 
 
-The Nanomatch Mobility Workflow (Calculator "**mobility**") is a multiscale simulations workflow designed to calculate the hole mobility of organic semiconductors starting from the first-principles.
-Users only need to provide the molecular structure as an InChI key. The workflow then takes over, progressing from the atomic properties to the macroscopic hole mobility, ensuring an efficient and comprehensive computational protocol.
+The Nanomatch Mobility Workflow (Calculator "**mobility**") is a multiscale simulations workflow designed to calculate the charge carrier mobility of organic semiconductors starting from the first-principles.
+The workflow progresses from the single molecular structure through atomic and electronic properties to the macroscopic hole mobility, ensuring an efficient and comprehensive computational protocol.
 
 The brief overview is given in the table below.
 
@@ -23,13 +23,14 @@ The brief overview is given in the table below.
           :width: 300px
           :align: center
    * - `DihedralParametrizer <http://docs.nanomatch.de/nanomatch-modules/DihedralParametrizer/DihedralParametrizer.html>`_
-     - | Parametrization of the total energy
-       | depending on dihedral angles
+     - | Computation of intramolecular
+       | forcefields
      - .. image:: mobility/dhp.png
           :width: 300px
           :align: center
    * - `Deposit <http://docs.nanomatch.de/nanomatch-modules/Deposit/Deposit.html>`_
-     - | Simulation of the physical deposition
+     - | Simulation of the physical
+       | vapor deposition (PVD)
        | to obtain atomistic morphology
      - .. image:: mobility/deposit.png
           :width: 300px
@@ -88,9 +89,8 @@ The parameters of the *QuantumPatch* embedding scheme is as follows:
 
 Structure Expansion
 ~~~~~~~~~~~~~~~~~~~
+To bridge the scales from atomistic resolution to the device level, a stochastic expansion scheme *EDCM* is used to expand the thin-film morphologies to the size of 40x40x40 nm\ :sup:`3`, drawing electronic couplings and site energies from distributions analyzed in the QuantumPatch method.
 
-To bridge the scales from atomistic resolution to the device level, a stochastic expansion scheme *EDCM* is used to expand the thin-film morphologies,
-drawing electronic couplings and site energies from distributions analyzed in the QuantumPatch method.
 
 Charge Transport Simulation
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -104,12 +104,20 @@ Parameters of the kMC simulations:
 - **Fields**: three fields are applied: 0.02 0.03 0.04 eV/nm.
 - **Morphology** and **replicas**: for every field value, 10 independent morphologies are generated using the stochastic expansion scheme, including HOMO/LUMO/Js distributions derived from the *QuantumPatch* simulations.
 - **Temperature** is 300 K.
-- **Convergence criterion**: either the fluctuation parameter "iv_fluctuation" below 0.05, or "max_iterations" exceeds 5E6.
-- **Number of Charge Carriers**: 30.
-- **Neighbours**: 120, meaning a charge carrier can jump to the nearest 120 neighboring molecules.
+- **Convergence criterion**: either the fluctuation parameter "iv_fluctuation" below 0.05, or "max_iterations" exceeds 5x10\ :sup:`6`.
+- **Number of Charge Carriers**: 30. In the expanded simulation box of 40x40x40 nm\ :sup:`3`, this results in a charge carrier concentration of 4.69x10\ :sup:`17` charges per cm\ :sup:`3`.
+
 
 Output
 ------
+
+This Calculator provides the following properties:
+
+- HOMO and LUMO (see :ref:`science_properties_HOMOLUMO`)
+- Dipole (property not yet described / available)
+- Morphology (see :ref:`science_properties_morphology`)
+- Hole mobility
+- Electron mobility
 
 Parsed Output
 ~~~~~~~~~~~~~
@@ -543,7 +551,7 @@ Abbreviations
 * **NK**: N. Kotadiya et al. (2018), "Rigorous Characterization and Predictive Modeling of Hole Transport in Amorphous Organic Semiconductors," *Adv. Electron. Mater.*, 4, 1800366. URL: https://doi.org/10.1002/aelm.201800366
 
 
-Reference
+References
 ---------
 
 .. _ref1:
