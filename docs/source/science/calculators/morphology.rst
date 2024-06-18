@@ -55,7 +55,7 @@ This Calculator provides the following properties:
 
 - HOMO and LUMO (see :ref:`science_properties_HOMOLUMO`)
 - Dipole (property not yet described / available)
-- Morphology and its related properties (see section Files).
+- Morphology and its related properties (see :ref:`science_properties_morphology`).
 
 
 Parsed Output
@@ -128,7 +128,7 @@ The table below explains each parameter, its meaning, units, and other relevant 
      - 2.1656629345848317e-05
      - Magnitude of the dipole moment
    * - average_neighbors
-     - Average number of neighboring molecules
+     - Average distance to neighboring molecules
      - Å
      - 17.6
      - Average distance to neighboring molecules
@@ -153,10 +153,9 @@ The table below explains each parameter, its meaning, units, and other relevant 
      - 4.921630094043887
      - Indicates the most probable intermolecular distance
 
-
+.. _science_calculators_morphology_files:
 Files
 ~~~~~
-
 In addition to parsed output, the following files are available upon the workflow completion:
 
 .. list-table::

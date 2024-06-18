@@ -29,12 +29,51 @@ Generating atomistic morphologies [1]_, [2]_, [3]_, [4]_ is a critical starting 
 Nanomatch Multiscale Workflow for Morphology
 --------------------------------------------
 
-In the DiaDEM Platform, the Nanomatch Multiscale Workflow for morphology is employed, which includes:
+In the DiaDEM Platform, the Nanomatch Multiscale Workflow for morphology is employed (:ref:`science_calculators_morphology`), which includes:
 
 - Molecule parametrization,
 - Morphology deposition using a Monte-Carlo protocol mimicking physical deposition (*DEPOSIT protocol* [1]_),
 - Analysis of the generated morphology using various computational tools,
 - Calculation of key morphological properties such as radial distribution function, mass and number density, mean distance to the nearest neighbours.
+
+The morphology can be downloaded under the name `structure.cml` along with other files (:ref:`science_calculators_morphology_files`).
+
+The morphological properties, which are computed within the calculator  :ref:`science_calculators_morphology` are explained in the Table below.
+
+.. list-table::
+   :header-rows: 1
+
+   * - Parameter
+     - Description
+     - Units
+     - Value (example)
+     - Additional Information
+   * - average_neighbors
+     - Average distance to neighboring molecules
+     - Å
+     - 17.6
+     - Average distance to neighboring molecules
+   * - mass_density
+     - Mass per unit volume
+     - g/cm³
+     - 1.14
+     - Standard deviation (`std`): 0.01 (example value)
+   * - molecular_volume
+     - Volume occupied by a single molecule
+     - nm³
+     - 0.23
+     -
+   * - number_density
+     - Number of molecules per unit volume
+     - 1/cm³
+     - 4.36e+21
+     - Standard deviation (`std`): 9.9e+19 (example value)
+   * - rdf_first_peak
+     - Position of the first peak in the radial distribution function
+     - Å
+     - 4.921630094043887
+     - Indicates the most probable intermolecular distance
+
 
 Using existing or generated morphology, the determination of secondary properties that depend on the morphology, such as charge carrier mobility, ionization potentials (IP), and electron affinities (EA) as possible as well.
 For example, see :ref:`science_properties_mobility`.
