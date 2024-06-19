@@ -3,6 +3,20 @@
 Morphology
 ==========
 
+
+.. list-table::
+   :header-rows: 1
+   :align: center
+
+   * - Calculators
+     - Notes
+   * - :ref:`science_calculators_morphology`
+     - recommended
+   * - :ref:`science_calculators_mobility`
+     - byproduct
+
+
+
 What is Material Morphology?
 ----------------------------
 
@@ -78,16 +92,10 @@ The morphological properties, which are computed within the calculator  :ref:`sc
 Using existing or generated morphology, the determination of secondary properties that depend on the morphology, such as charge carrier mobility, ionization potentials (IP), and electron affinities (EA) as possible as well.
 For example, see :ref:`science_properties_mobility`.
 
-Although this workflow integrates extensive experience and advanced simulation methods, including quantum chemistry (QM), molecular mechanics (MM), Monte-Carlo, the only input required from the user is the structure of the molecule, for example, InChI or another identifier. This makes it accessible to all users, regardless of their background.
-
+Although this workflow integrates extensive experience and advanced simulation methods, including quantum chemistry (QM), molecular mechanics (MM), and Monte Carlo simulations, the user only needs to know the structure of the molecule. This makes the workflow accessible to all users, regardless of their background.
 The DiaDEM project allows you to compute detailed morphological characteristics and secondary properties for any single-component organic semiconductor by simply specifying the molecule in the form of an InChI key.
 
 
-Other Workflows that Provide Morphology
----------------------------------------
-
-Morphology will also be generated as an important side-product of the workflow :ref:`science_calculators_mobility`.
-In fact, the workflow :ref:`science_calculators_morphology` is the same as :ref:`science_calculators_mobility` workflow terminated after the morphology is generated and analysed.
 
 
 References

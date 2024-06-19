@@ -1,12 +1,28 @@
 .. _science_calculators_morphology:
 
-Morphology
-==========
+Nanomatch Morphology Calculator
+===============================
+
+.. list-table::
+   :header-rows: 1
+   :align: center
+
+   * - Properties
+     - Notes
+   * - :ref:`science_properties_HOMOLUMO`
+     - byproduct
+   * - Dipole (property not yet described / available)
+     - byproduct
+   * - :ref:`science_properties_morphology`
+     - recommended
 
 
-The **morphology** calculator represents is the first part of the **mobility** calculator workflow (:ref:`science_calculators_mobility`), which terminates after the morphology is generated and analyzed.
+Workflow
+--------
 
-.. list-table:: Morphology Workflow Overview
+The **Nanomatch Morphology Calculator** workflow is essentially the first part of the **Nanomatch Mobility Calculator** workflow (:ref:`science_calculators_mobility`), which is terminated after the morphology is generated and analyzed.
+
+.. list-table:: Nanomatch Morphology Calculator Workflow
    :widths: 30 30 30
    :header-rows: 1
 
@@ -35,7 +51,7 @@ The **morphology** calculator represents is the first part of the **mobility** c
 Implemented Scientific Methods
 ------------------------------
 
-The following scientific methods are implemented in the Calculator "**morphology**":
+The following scientific methods are implemented in the **Nanomatch Morphology Calculator**:
 
 Molecular Structure Optimization
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -48,18 +64,13 @@ Morphology Generation
 The *DEPOSIT protocol* [1]_ simulates physical vapor deposition to generate thin-film morphologies with atomistic resolution. This involves Monte Carlo (MC) based basin hopping with simulated annealing (SA) to model intermolecular interactions during deposition. In total, 1000 molecules are deposited into a box with a base size of 100x100 Å.
 
 
+
 Output
 ------
 
-This Calculator provides the following properties:
+Displayed Results
+~~~~~~~~~~~~~~~~~
 
-- HOMO and LUMO (see :ref:`science_properties_HOMOLUMO`)
-- Dipole (property not yet described / available)
-- Morphology and its related properties (see :ref:`science_properties_morphology`).
-
-
-Parsed Output
-~~~~~~~~~~~~~
 The data below will be displayed as the workflow ends (backend name: `result.yml`):
 
 .. code-block:: yaml
@@ -154,6 +165,7 @@ The table below explains each parameter, its meaning, units, and other relevant 
      - Indicates the most probable intermolecular distance
 
 .. _science_calculators_morphology_files:
+
 Files
 ~~~~~
 In addition to parsed output, the following files are available upon the workflow completion:
@@ -194,8 +206,8 @@ In addition to parsed output, the following files are available upon the workflo
           :align: center
 
 
-Reference
----------
+References
+----------
 
 .. _ref1:
 

@@ -1,11 +1,29 @@
 .. _science_calculators_mobility:
 
-Electron and Hole Mobility
+Nanomatch Mobility Calculator
 ==========================
 
+.. list-table::
+   :header-rows: 1
+   :align: center
 
-The Nanomatch Mobility Workflow (Calculator "**mobility**") is a multiscale simulations workflow designed to calculate the charge carrier mobility of organic semiconductors starting from the first-principles.
-The workflow progresses from the single molecular structure through atomic and electronic properties to the macroscopic hole mobility, ensuring an efficient and comprehensive computational protocol.
+   * - Properties
+     - Notes
+   * - :ref:`science_properties_HOMOLUMO`
+     - byproduct
+   * - Dipole (property not yet described / available)
+     - byproduct
+   * - :ref:`science_properties_morphology`
+     - byproduct
+   * - :ref:`science_properties_mobility`
+     - recommended
+
+
+Workflow
+--------
+
+The **Nanomatch Mobility Calculator** is a multiscale simulations workflow designed to calculate the charge carrier mobility of organic semiconductors starting from the first-principles.
+The workflow progresses from the single molecular structure through atomic and electronic properties to the macroscopic hole and electron mobilities, ensuring an efficient and comprehensive computational protocol.
 
 The brief overview is given in the table below.
 
@@ -52,7 +70,7 @@ The brief overview is given in the table below.
 Implemented Scientific Methods
 ------------------------------
 
-The following scientific methods are implemented in the Calculator "**mobility**":
+The following scientific methods are implemented in the **Nanomatch Mobility Calculator**:
 
 Molecular Structure Optimization
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -108,19 +126,13 @@ Parameters of the kMC simulations:
 - **Number of Charge Carriers**: 30. In the expanded simulation box of 40x40x40 nm\ :sup:`3`, this results in a charge carrier concentration of 4.69x10\ :sup:`17` charges per cm\ :sup:`3`.
 
 
+
 Output
 ------
 
-This Calculator provides the following properties:
+Displayed Results
+~~~~~~~~~~~~~~~~~
 
-- HOMO and LUMO (see :ref:`science_properties_HOMOLUMO`)
-- Dipole (property not yet described / available)
-- Morphology (see :ref:`science_properties_morphology`)
-- Hole mobility
-- Electron mobility
-
-Parsed Output
-~~~~~~~~~~~~~
 The data below will be displayed as the workflow ends (backend name: `result.yml`):
 
 .. code-block:: yaml
@@ -211,7 +223,7 @@ The hole and electron zero-field mobilities (in [cm2/V*s]) are:
 The value is derived from field-dependent mobilities, which are also provided in the output. Extrapolation is performed using linear regression in the log(mobility) vs. sqrt(field) plot. The extrapolation is shown in one of the output files, example: `mobility_vs_sqrt_field.png <../../../../../docs/build/html/_static/science/calculators/mobility/mobility_vs_sqrt_field.png>`_.
 
 Files
-~~~~~~~~~
+~~~~~
 
 In addition to parsed output, the following files are available upon the workflow completion:
 
