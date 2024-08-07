@@ -1,5 +1,6 @@
 Patent flag
 =============
+Unit: [True/False] (True: found in patent database | False: not found in patent database)
 
 Patent and article derived chemical databases are widely utilized for the evaluation of novelty.
 In the case of the DiaDEM platform, our initial expectation is that literature data could have a lower relevance than patent-based data,

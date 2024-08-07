@@ -1,5 +1,6 @@
 Toxicity flag
 =============
+Unit: [True/False] (True: contains a toxical substructure | False: does not contain a toxical substructure)
 
 Organic electronic devices have potential applications ranging from light emitting devices (in-door and out-door as well), devices operating in extreme conditions to wearable devices that are in constant contact with our skin, or even medical devices that can be within our body.
 But even if a simple coating of a surface is considered, humans can interact with these materials, thus their effect on health can be a source of issues in the future.

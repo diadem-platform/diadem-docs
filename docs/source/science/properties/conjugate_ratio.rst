@@ -1,5 +1,7 @@
 Conjugate ratio
 =============
+Unit: [-] (between 0 and 1)
+
 Conjugation is the overlap of one p-orbital with another across an adjacent σ bond,
 resulting in the delocalization of pi electrons.
 
