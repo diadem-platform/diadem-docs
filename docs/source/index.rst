@@ -41,6 +41,7 @@ This documentation is structured as follows:
    :caption:  User manual
 
    manual/login_signup
+   manual/credits
    manual/query
    manual/ondemandcalc
    manual/cart
