@@ -18,3 +18,4 @@ To identify the calculator most suitable for your purpose, this section provides
    calib_TDDFT
    mobility
    morphology
+   stokes_shift
