@@ -23,3 +23,4 @@ DiaDEM is built around properties computed for organic electronic materials: Use
 
    mobility
    morphology
+   stokes_shift
