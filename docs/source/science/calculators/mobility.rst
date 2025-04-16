@@ -1,7 +1,7 @@
 .. _science_calculators_mobility:
 
 Nanomatch Mobility Calculator
-==========================
+=============================
 
 .. list-table::
    :header-rows: 1
