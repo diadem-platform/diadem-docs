@@ -13,8 +13,8 @@ Stokes Shift Calculator
      - recommended
 
 
-Stokes Shift Calculation
-------------------------
+Workflow
+--------
 
 We estimate the Stokes shift in vacuum by subtracting energies of the first excited state :math:`S_1` in
 :math:`S_0` geometry and :math:`S_1` geometry.
@@ -28,8 +28,6 @@ The difference is taken as the Stokes shift.
           :width: 600px
           :align: center
 
-Workflow
---------
 
 The Stokes Shift Calculator workflow is implemented as the four separate runs of the
 `Parametrizer <http://docs.nanomatch.de/nanomatch-modules/Parametrizer/Parametrizer.html>`_
