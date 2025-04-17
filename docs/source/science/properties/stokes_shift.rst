@@ -14,15 +14,22 @@ Stokes Shift
      - recommended
 
 What is Stokes Shift
-====================
+--------------------
 
-The Stokes shift roughly equates to the shift between emission and absorbtion peak.
+The Stokes shift roughly equates to the shift between emission and absorbtion peak:
+
+.. image:: stokes_shift/a_e.png
+          :width: 300px
+          :align: center
+
+
+
 It influences OLED performance factors like self-absorbtion of photons or the efficiency of energy transfer,
 particularly important in devices containing dyes of different colors.
 
 
-Restriction
-===========
+Restrictions of the vacuum calculations
+---------------------------------------
 
 In the lab, the solvent/environment can also affect the magnitude of the Stokes shift. If your molecule has a strong CT character, the vaccum calculation should only be understood as an estimate.
 
