@@ -31,9 +31,9 @@ The difference is taken as the Stokes shift.
 Workflow
 --------
 
-Four separate runs of the
+The Stokes Shift Calculator workflow is implemented as the four separate runs of the
 `Parametrizer <http://docs.nanomatch.de/nanomatch-modules/Parametrizer/Parametrizer.html>`_
-Module are required and the last step will analyze the difference of
+Module using PySCF for quantum chemistry calculations. The last step analyzes the difference of
 the :math:`E(S_1|S_0)` and :math:`E(S_1|S_1)` and deliver the final output in eV and nm.
 The notations are <state>|<geometry>, where state refers to the electronic state for which the energy is evaluated,
 and geometry refers to the state whose equilibrium geometry is used.
