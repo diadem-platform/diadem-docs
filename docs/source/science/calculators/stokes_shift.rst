@@ -79,8 +79,8 @@ and geometry refers to the state whose equilibrium geometry is used.
           :align: center
 
 
-Technical details of the quantum chemistry calculations
---------------------------------------------------------
+Implemented Scientific Methods
+------------------------------
 
 +---------------------------------------------------------------+-----------------------------+
 | Step                                                          | Method                      |
@@ -96,6 +96,7 @@ Software:
 
 - Quantum Chemistry: `PySCF <https://pyscf.org/>`_
 - Geometry Optimization: `geomeTRIC <https://github.com/leeping/geomeTRIC>`_
+
 
 Output
 ------
