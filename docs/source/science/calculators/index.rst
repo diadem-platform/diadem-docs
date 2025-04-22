@@ -19,3 +19,4 @@ To identify the calculator most suitable for your purpose, this section provides
    mobility
    morphology
    stokes_shift
+   ip_estimator
