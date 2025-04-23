@@ -196,10 +196,10 @@ In addition to parsed output, the following file are available upon the workflow
      - Ground State geometry in MOL2 format
 
 Benchmark
-~~~~~~~~~
+---------
 
 Benchmark set:
-..............
+~~~~~~~~~~~~~~
 
 
 .. image:: ip_estimator/4.png
@@ -212,6 +212,9 @@ Molecule Names:
 2. BFDPB
 3. BPAPF
 4. TCTA
+
+Verification
+~~~~~~~~~~~~
 
 We compare the polarization energies :math:`P+` computed with this calculator to the values computed using explicit solvent model, `QuantumPatch` [1]_ as shown below:
 
