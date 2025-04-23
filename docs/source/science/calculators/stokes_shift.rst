@@ -153,7 +153,7 @@ compared them with our theoretically calculated Stokes shift results, as present
 Experimental verification
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
-The following table shows the published experimental data and the results of the workflow above calculations.
+The following table shows the published experimental data and the results of the workflow above.
 
 .. image:: stokes_shift/Results.png
           :width: 500px
