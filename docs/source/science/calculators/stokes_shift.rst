@@ -136,3 +136,32 @@ In addition to parsed output, the following files are available upon the workflo
    * - 2
      - `Molecule_S1_opt.mol2`
      - Excited state (:math:`S1`) geometry in MOL2 format
+
+Benchmarks
+----------
+
+Benchmark Set
+~~~~~~~~~~~~~
+
+To ensure, the accuracy of this workflow, we selected two experimentally studied Stokes shifts from Ref. [1]_, [2]_ and
+compared them with our theoretically calculated Stokes shift results, as presented below.
+
+.. image:: stokes_shift/tp-bodipy-summary-structure.png
+          :width: 500px
+          :align: center
+
+Experimental verification
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
+The following table shows the published experimental data and the results of the workflow above calculations.
+
+.. image:: stokes_shift/Results.png
+          :width: 500px
+          :align: center
+
+References
+----------
+
+.. [1] Novel red-emitting thieno-[3,4-b]-pyrazine derivatives suitable for vacuum evaporation and solution method to fabricate non-doped OLEDs, Qing Li, Jiuyan Li, Ruixia Yang, Lijun Deng, Zhanxian Gao, Di Liu, Dyes and Pigments 92 (2011) 674-680
+
+.. [2] Ref. 2: Bulky 4-tritylphenylethynyl substituted boradiazaindacene: pure red emission, relatively large Stokes shift and inhibition of self-quenching, Dakui Zhang, Yugeng Wen, Yi Xiao,Gui Yu, Yunqi Liu and Xuhong Qian, Chem. Commun., 2008, 4777–4779 | 4777
