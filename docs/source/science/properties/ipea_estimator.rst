@@ -42,11 +42,12 @@ These solid-state IP and EA differ from the gas-phase values :math:`IP_{g}` and 
     EA = EA_{g} + P^{-}
 
 
-The differences :math:`P^{+}` and :math:`P^{-}` are historically called *polarization energies*, because the stabilization
-in the solid state arises from induced dipoles that form in response to charging a molecule — with important exceptions
-where electrostatic or other effects can be equally significant or even dominant.
+The differences :math:`P^{+}` and :math:`P^{-}` have historically been termed *polarization energies* because the
+stabilization in the solid state primarily arises from dipoles **induced** in the environment upon charging a molecule.
+However, there are notable cases where **permanent** electrostatic interactions — originating from intrinsic charges or fixed
+dipoles in the surrounding molecules — can be equally significant or even dominant.
 
-The diagram below illustrates solid-state values of :math:`IP` and :math:`EA` differ from those in vacuum due to polarization energies:
+The diagram below illustrates the shift of the solid-state values of :math:`IP` and :math:`EA` from those in vacuum due to polarization effects:
 
 .. image:: ipea_estimator/ipea.png
           :width: 500px
@@ -57,7 +58,7 @@ separate treatment of the molecule of interest which is treated with the as accu
 while employing various approximations for its interaction with the environmental molecules, recognizing dominate electrostatic
 nature of intermolecular interactions.
 The fastest method to estimate :math:`IP` and :math:`EA` is however to use the implicit solvent model like COSMO to
-capture the essential the induced polarization response and some high-level quantum chemistry method like GW to evaluate the gas-phase :math:`IP`/:math:`EA` (see :ref:`science_calculators_ip_estimator`).
+capture the essential induced polarization response and some high-level quantum chemistry method like GW to evaluate the gas-phase :math:`IP`/:math:`EA` (see :ref:`science_calculators_ip_estimator`).
 
 
 References

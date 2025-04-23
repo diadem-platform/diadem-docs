@@ -64,13 +64,13 @@ Vacuum IP and EA from GW Calculations
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 :math:`IP_{GW}^{vac}` and :math:`EA_{GW}^{vac}` are computed from many-body perturbation theory using the :math:`G_0W_0`
-approximation on top of PBE0 (i.e., :math:`G_0W_0@\text{PBE0}`). G0W0 slow basi set convergence is a well-known.
+approximation on top of PBE0 (i.e., :math:`G_0W_0` @ :math:`\text{PBE0}`). :math:`G_0W_0` slow basis set convergence is a well-known.
 We thus first perform calculations using two correlation-consistent basis sets:
 
 - aug-cc-pVDZ (DZ)
 - aug-cc-pVTZ (TZ),
 
-and then extrapolate it to the complete basos set (CBS) limit using the cardinal number :math:`N`, assuming a convergence behavior of:
+and then extrapolate it to the complete basis set (CBS) limit using the cardinal number :math:`N`, assuming a convergence behavior of:
 
 .. math::
 
@@ -83,7 +83,7 @@ where:
 - :math:`A` is a constant that is determined along with :math:`E(\infty)` because :math:`E(N)` is known for two different :math:`N`, in our case 2(DZ) and 3(DZ).
 
 
-.. list-table:: IP/EA es Workflow Overview
+.. list-table:: IP/EA Estimator Workflow Overview
    :widths: 30 30 30
    :header-rows: 1
 
@@ -222,7 +222,7 @@ We compare the polarization energies :math:`P+` computed with this calculator to
           :width: 500px
           :align: center
 
-The deviation between the reference (`QuantumPatch`) and the given method dio not exceed than 50 meV.
+The deviation between the reference (`QuantumPatch`) and the given method does not exceed 50 meV.
 
 References
 ----------
